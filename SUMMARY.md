@@ -1,4 +1,4 @@
-# 5.0
+# Table of contents
 
 * [Initial page](README.md)
 
